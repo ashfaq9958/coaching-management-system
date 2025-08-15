@@ -158,7 +158,6 @@ const StudentsPage = () => {
       </div>
 
       {/* Table */}
-      {/* Table */}
       <div className="rounded-lg border bg-card shadow-md overflow-hidden">
         <Table>
           <TableHeader>

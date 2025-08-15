@@ -114,7 +114,7 @@ const initialState: State = {
   students: [
     {
       id: "1",
-      name: "John Doe",
+      name: "Ashfaq Ahmad",
       batchId: "B-1",
       room: "R-101",
       email: "john@example.com",
@@ -123,7 +123,7 @@ const initialState: State = {
     },
     {
       id: "2",
-      name: "Jane Smith",
+      name: "Farman Parvez",
       batchId: "B-2",
       room: "R-102",
       email: "jane@example.com",
